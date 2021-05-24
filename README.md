@@ -9,5 +9,18 @@ $pip2 install requests
 $pip2 install mechanize
 $pkg install git
 $git clone https://github.com/raeesabdaal/Raeesabdaal.git
-cd RaeesAbdaal
-python2 RaeesAbdaal.sh
+$ls
+$cd raeesabdaal
+$ python2 raeesabdaal.sh
+.
+.
+.
+.
+
+
+
+
+Thanks For Using My Commands
+
+
+
