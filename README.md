@@ -1,26 +1,28 @@
 This Is Working Command's For Termux Users
 
 
-$pkg update
-$pkg upgrade
-$pkg install python
-$pkg install python2
-$pip2 install requests
-$pip2 install mechanize
-$pkg install git
-$git clone https://github.com/raeesabdaal/Raeesabdaal.git
-$ls
-$cd raeesabdaal
-$ python2 raeesabdaal.sh
-.
-.
-.
-.
 
 
 
+apt update
 
-Thanks For Using My Commands
+apt upgrade
+
+apt install python2
+
+apt install python
+
+pip2 install requests
+
+pip2 install mechanize
+
+apt install git
+
+git clone https://github.com/raeesabdaal/Raeesabdaal.git
+
+cd Raees
+
+python2 Raees.py
 
 
-
+Thanks For Using My Command's
